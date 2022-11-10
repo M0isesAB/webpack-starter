@@ -1,5 +1,14 @@
-# Webpack configurado
+# Webpack starter
 
-Para usar este repositorio, deberán ejecutar el comando de ```npm install```
+Este es el proyecto inicial para crear app en webpack
 
-Pero esto lo veremos en la siguiente sección
+## Notas: 
+recorcar construir los modelos de ode 
+```
+npm install
+``` 
+y para construir el bioñd recuerden ;
+
+```
+npm reun build
+```
